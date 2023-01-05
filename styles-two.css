@@ -75,6 +75,7 @@ input {
   margin-top: 0.2rem;
   border-radius: 1px;
   margin-bottom: 0.7rem;
+ 
 }
 input:focus {
   border: 1px solid #4d90fe;
@@ -89,13 +90,15 @@ input:focus {
   margin-right: -38.7rem;
 }
 .blue {
-  width: 10rem;
+  width: 7.5rem;
   background-color: #4d90fe;
   color: #fff;
   border: 1px solid #3079ed;
   height: 30px;
   font-weight: bold;
   margin-top: 1rem;
+  font-size: 11px;
+  border-radius: 2px;
 }
 .blue:hover {
   border: 1px solid #2f5bb7;
