@@ -35,7 +35,6 @@ h2 {
   margin-left: 39.5rem;
   font-weight: bold;
   font-size: 14px;
-
 }
 hr {
   margin-top: 1.6rem;
@@ -63,7 +62,6 @@ p {
   display: table-cell;
   color: #555555;
   justify-content: center;
-
 }
 
 input {
@@ -77,7 +75,6 @@ input {
   margin-top: 0.2rem;
   border-radius: 1px;
   margin-bottom: 0.7rem;
- 
 }
 input:focus {
   border: 1px solid #4d90fe;
